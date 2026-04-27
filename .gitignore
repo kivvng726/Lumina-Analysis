@@ -18,6 +18,13 @@ dist-ssr
 !.env.example
 !.env.template
 
+# Python generated files
+__pycache__/
+*.pyc
+
+# Local DB / artifacts
+*.db
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
