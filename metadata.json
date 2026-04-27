@@ -1,0 +1,5 @@
+{
+  "name": "Lumina - 智能舆情分析平台",
+  "description": "高保真、意图优先的舆情分析平台，具有透明的数据清洗、动态 Agent 编排和可追溯的报告功能。",
+  "requestFramePermissions": []
+}
